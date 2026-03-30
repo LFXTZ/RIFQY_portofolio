@@ -1,5 +1,3 @@
-# RIFQY_portofolio
-portofolio
 <!DOCTYPE html>
 <html lang="id">
 <head>
